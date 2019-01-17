@@ -1,0 +1,26 @@
+* {
+  color: white;
+  font-size: 70px;
+  margin: 0 auto;
+}
+.atm1 {
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+  background-color: greenyellow;
+}
+.atm2 {
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+  background-color: greenyellow;
+}
+.atms {
+  display: flex;
+}
+.counter {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin-top: 300px;
+}
